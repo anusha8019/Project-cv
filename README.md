@@ -8,7 +8,7 @@ A **single-page Curriculum Vitae** created using HTML, showcasing my skills, edu
 ##  Live Demo
 
 View the hosted CV here:  
-https://github.com/anusha8019/Project-cv.git
+[https://github.com/anusha8019/Project-cv.git](https://anusha8019.github.io/Project-cv/)
 ---
 
 ##  How to Run Locally
