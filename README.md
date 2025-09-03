@@ -1,7 +1,19 @@
 # Project-cv
+# Jalla Anusha – Single Page CV
 
-This is a single-page CV (Curriculum Vitae) created using **HTML only**.
+A **single-page Curriculum Vitae** created using HTML, showcasing my skills, education, training, and projects.
 
-## 🚀 How to Run
-1. open the file index.html
+---
 
+##  Live Demo
+
+View the hosted CV here:  
+https://github.com/anusha8019/Project-cv.git
+---
+
+##  How to Run Locally
+
+```bash
+git clone https://github.com/anusha8019/Project-cv.git
+cd Project-cv
+open index.html
