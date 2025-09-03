@@ -17,3 +17,5 @@ View the hosted CV here:
 git clone https://github.com/anusha8019/Project-cv.git
 cd Project-cv
 open index.html
+
+https://roadmap.sh/projects/single-page-cv
